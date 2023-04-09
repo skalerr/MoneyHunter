@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyHunter", "MoneyHunter\MoneyHunter.csproj", "{63B47AD6-315D-4839-BD86-8282630BE56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyHunter.DAL", "MoneyHunter.DAL\MoneyHunter.DAL.csproj", "{688DBC92-7D46-4C6F-BB76-16B33325A698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyHunter.Entity", "MoneyHunter.Entity\MoneyHunter.Entity.csproj", "{49B3EA2F-E4DE-4658-8375-3ED796EF812D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyHunter.Service", "MoneyHunter.Service\MoneyHunter.Service.csproj", "{E6346793-0D30-42EF-9FD7-743205A56D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B47AD6-315D-4839-BD86-8282630BE56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B47AD6-315D-4839-BD86-8282630BE56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B47AD6-315D-4839-BD86-8282630BE56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B47AD6-315D-4839-BD86-8282630BE56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688DBC92-7D46-4C6F-BB76-16B33325A698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688DBC92-7D46-4C6F-BB76-16B33325A698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688DBC92-7D46-4C6F-BB76-16B33325A698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688DBC92-7D46-4C6F-BB76-16B33325A698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B3EA2F-E4DE-4658-8375-3ED796EF812D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B3EA2F-E4DE-4658-8375-3ED796EF812D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B3EA2F-E4DE-4658-8375-3ED796EF812D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B3EA2F-E4DE-4658-8375-3ED796EF812D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6346793-0D30-42EF-9FD7-743205A56D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6346793-0D30-42EF-9FD7-743205A56D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6346793-0D30-42EF-9FD7-743205A56D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6346793-0D30-42EF-9FD7-743205A56D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
