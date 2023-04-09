@@ -479,5 +479,4 @@ $RECYCLE.BIN/
 #idea
 /.idea
 
-/python_bot/secrets*
-/python_bot/secrets/*
+python_bot/secrets.txt

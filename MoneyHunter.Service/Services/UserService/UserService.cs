@@ -16,7 +16,7 @@ public class UserService : IUserService
     {
         var userChatId = int.Parse(chat_id);
         
-        var users = _userRepository.FindAll().ToList();
+        var users = _userRepository.FindAll();
         var findUser = users.FirstOrDefault(x => x.TgId == userChatId && !x.IsDeleted);
         if (findUser != null)
         {

@@ -11,4 +11,8 @@
       <ProjectReference Include="..\MoneyHunter.Entity\MoneyHunter.Entity.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove=".gitignore" />
+    </ItemGroup>
+
 </Project>

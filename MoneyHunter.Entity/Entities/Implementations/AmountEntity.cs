@@ -2,7 +2,7 @@
 
 namespace MoneyHunter.Entities.Entities.Implementations;
 
-public class UserAmount : Entity<ulong>
+public class AmountEntity : Entity<ulong>
 {
     public decimal Amount { get; set; }
 
